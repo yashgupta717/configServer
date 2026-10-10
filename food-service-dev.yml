@@ -3,7 +3,7 @@ server:
 info:
   app:
     name: "Food Service"
-    description: "This is Food Service. We are developing right now"
+    description: {cipher}94976b2569bca18a516deb01ec2dff124e42c5076135d07fedf49ec27847255fbc8f508534734f7769d111fa3dcac97a49a116e1ff02f37daaebe7756c8be81bb945c7dd0d526fff46244d466e024e797b28c901cfdbaee7ca3ad44458655ae7
     version: "1.0 Under Development"
 spring:
   jpa:
